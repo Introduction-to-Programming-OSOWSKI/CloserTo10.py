@@ -1,16 +1,28 @@
-# **Assignment Title**  
+# **Closer To 10**  
 
 ## **Assignment Description**  
-
+Given variables x and y, create a function called close10() that returns whichever value is nearest to the value 10, or returns 0 in the event of a tie.
 
 ## **Examples**  
->
+>close10(5, 12)  
+12
+
+>close10(9, 50)  
+9
+
+>close10(8, 12)  
+0
 
 ## **Limitations**  
+1 if  
+1 elif  
+1 else  
 
 ## **Hints**  
+The function abs(n) returns the absolute value of n.  
 
 ## **Concepts**  
+Unit 1, else/if, comparison operators, abs()  
 
 ---
 
