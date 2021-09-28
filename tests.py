@@ -6,8 +6,8 @@ import main;
 import datetime;
 
 year = 2021
-month = 4
-day = 14
+month = 10
+day = 8
 
 def test_code():
     assert main.close10(5, 13) == 13, "close10(5, 13)  == 13 failed"
